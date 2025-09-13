@@ -27,7 +27,7 @@
                         <configuration>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.mipt.ivanivanov.Application</mainClass>
+                                    <mainClass>com.mipt.artemkiselev.Application</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>

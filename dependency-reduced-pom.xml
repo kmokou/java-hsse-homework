@@ -18,7 +18,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.mipt.ivanivanov.Application</mainClass>
+                  <mainClass>com.mipt.artemkiselev.Application</mainClass>
                 </transformer>
               </transformers>
             </configuration>
